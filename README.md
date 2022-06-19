@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LIM0000/LIM0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://i.imgur.com/V3DNVqE.gif"/>
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🎓 Bachelor of Computer Science (major in Cyber Security)
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🎓 Studying Master of Computer Science
+- 🔨 Contribution to Open Source projects
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
