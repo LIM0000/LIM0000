@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🎓 Bachelor of Computer Science (major in Cyber Security)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: slowpoke & slowbro lover
 
 ### What I'm up to
 - 🎓 Studying Master of Computer Science
@@ -28,8 +30,7 @@ Here are some ideas to get you started:
 ### My Latest GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/LIM0000?template=classic)
 
-
 ### How to reach me
-[<img src="https://img.shields.io/badge/LinkedIn-Sim%20Teck%20Lim-blue"/>](https://www.linkedin.com/in/sim-teck-lim-a27000209/)
-[<img src="https://img.shields.io/badge/Email-simteckl%40gmail.com-white"/>]()
+<a href="https://www.linkedin.com/in/sim-teck-lim-a27000209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sim%20Teck%20Lim-blue"/></a>
+<img src="https://img.shields.io/badge/Email-simteckl%40gmail.com-white"/>
 
