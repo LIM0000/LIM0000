@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/LIM0000?template=classic)
 
 ### How to reach me
-<a href="https://www.linkedin.com/in/sim-teck-lim-a27000209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sim%20Teck%20Lim-blue"/></a>
+<a href="https://www.linkedin.com/in/sim-teck-lim-a27000209/"><img src="https://img.shields.io/badge/LinkedIn-Sim%20Teck%20Lim-blue" target="_blank"/></a>
 <img src="https://img.shields.io/badge/Email-simteckl%40gmail.com-white"/>
 
