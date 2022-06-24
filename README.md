@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img src="https://avatars.githubusercontent.com/u/3914421?s=200&v=4" height=30 width=30/>](https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3ALIM0000+)
 
 ### My Latest GitHub Metrics
-![Metrics](https://metrics.lecoq.io/LIM0000?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](/github-metrics.svg)
 
 ### How to reach me
 <a href="https://www.linkedin.com/in/sim-teck-lim-a27000209/"><img src="https://img.shields.io/badge/LinkedIn-Sim%20Teck%20Lim-blue"/></a>
