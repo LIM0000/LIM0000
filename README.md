@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!--
 1) How to create a badge (https://shields.io/)
-2) Github metrics (https://metrics.lecoq.io/) (https://github.com/lowlighter/metrics)
+2) Github metrics (https://metrics.lecoq.io/) (https://github.com/lowlighter/metrics) (https://github.com/lowlighter/metrics#-documentation)
 3) Profile view counter badge (https://github.com/arturssmirnovs/github-profile-views-counter)
 -->
 
