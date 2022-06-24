@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+1) How to create a badge (https://shields.io/)
+2) Github metrics (https://metrics.lecoq.io/) (https://github.com/lowlighter/metrics)
+3) Profile view counter badge (https://github.com/arturssmirnovs/github-profile-views-counter)
+-->
+
 <img src="https://i.imgur.com/o31LvMU.gif"/> <img src="https://gpvc.arturio.dev/LIM0000"/>
 
 ### About Me
