@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 1) How to create a badge (https://shields.io/)
 2) Github metrics (https://metrics.lecoq.io/) (https://github.com/lowlighter/metrics) (https://github.com/lowlighter/metrics#-documentation)
 3) Profile view counter badge (https://github.com/arturssmirnovs/github-profile-views-counter)
+4) How to create neat project documentation with markdown (https://www.mkdocs.org/)
 -->
 
 <img src="https://i.imgur.com/o31LvMU.gif"/> <img src="https://gpvc.arturio.dev/LIM0000"/>
