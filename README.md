@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🎓 Bachelor of Computer Science (major in Cyber Security)
 - 🎓 Master of Computer Science
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: slowpoke & slowbro lover
 
 ### What I'm up to
 - 🔧 Contribution to Open Source projects
