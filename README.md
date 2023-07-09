@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🎓 Bachelor of Computer Science (major in Cyber Security)
+- 🎓 Master of Computer Science
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: slowpoke & slowbro lover
 
 ### What I'm up to
-- 🎓 Studying Master of Computer Science
 - 🔧 Contribution to Open Source projects
 
 ### Open Source Contribution
