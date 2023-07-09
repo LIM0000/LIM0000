@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 4) How to create neat project documentation with markdown (https://www.mkdocs.org/)
 -->
 
-<img src="https://i.imgur.com/o31LvMU.gif"/> <img src="https://gpvc.arturio.dev/LIM0000"/>
+<!-- 
+<img src="https://i.imgur.com/o31LvMU.gif"/>
+<img src="https://gpvc.arturio.dev/LIM0000"/>
+-->
 
 ### About Me
 - 🎓 Bachelor of Computer Science (major in Cyber Security)
