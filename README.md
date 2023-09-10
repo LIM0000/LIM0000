@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 - 🎓 Master of Computer Science
 - 😄 Pronouns: he/him
 
-### What I'm up to
-- 🔧 Contribution to Open Source projects
+<!-- ### What I'm up to -->
+<!-- - 🔧 Contribution to Open Source projects -->
 
 ### Open Source Contribution
 [<img src="https://avatars.githubusercontent.com/u/3914421?s=200&v=4" height=30 width=30/>](https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3ALIM0000+)
 
-### My Latest GitHub Metrics
-![Metrics](/github-metrics.svg)
+<!-- ### My Latest GitHub Metrics -->
+<!-- ![Metrics](/github-metrics.svg) -->
 
 ### How to reach me
 <a href="https://www.linkedin.com/in/sim-teck-lim-a27000209/"><img src="https://img.shields.io/badge/LinkedIn-Sim%20Teck%20Lim-blue"/></a>
